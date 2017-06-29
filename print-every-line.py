@@ -4,3 +4,4 @@ print "Firstly, just try some new as: git, pycharm,.. easy install and how to us
 print "Try push to github.com with my account via this code interface"
 print "Now, everything seem okey, just try: Ctrl + Shift + K and allow push"
 print " No no, it seem that i haven't push new line to github yet"
+print " Yeah!! I know how to push. Firstly commit it by Ctrl +K and then can push by Ctrl+Shift+K"
